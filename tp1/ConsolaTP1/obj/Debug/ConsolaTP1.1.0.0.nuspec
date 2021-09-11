@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ConsolaTP1</id>
+    <version>1.0.0</version>
+    <authors>ConsolaTP1</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\bin\Debug\net5.0\ConsolaTP1.runtimeconfig.json" target="lib\net5.0\ConsolaTP1.runtimeconfig.json" />
+    <file src="E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\bin\Debug\net5.0\ConsolaTP1.dll" target="lib\net5.0\ConsolaTP1.dll" />
+  </files>
+</package>

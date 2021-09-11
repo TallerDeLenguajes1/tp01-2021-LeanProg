@@ -1,0 +1,16 @@
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\bin\Debug\net5.0\ConsolaTP1.exe
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\bin\Debug\net5.0\ConsolaTP1.deps.json
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\bin\Debug\net5.0\ConsolaTP1.runtimeconfig.json
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\bin\Debug\net5.0\ConsolaTP1.runtimeconfig.dev.json
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\bin\Debug\net5.0\ConsolaTP1.dll
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\bin\Debug\net5.0\ref\ConsolaTP1.dll
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\bin\Debug\net5.0\ConsolaTP1.pdb
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\obj\Debug\net5.0\ConsolaTP1.csproj.AssemblyReference.cache
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\obj\Debug\net5.0\ConsolaTP1.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\obj\Debug\net5.0\ConsolaTP1.AssemblyInfoInputs.cache
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\obj\Debug\net5.0\ConsolaTP1.AssemblyInfo.cs
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\obj\Debug\net5.0\ConsolaTP1.csproj.CoreCompileInputs.cache
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\obj\Debug\net5.0\ConsolaTP1.dll
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\obj\Debug\net5.0\ref\ConsolaTP1.dll
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\obj\Debug\net5.0\ConsolaTP1.pdb
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\ConsolaTP1\obj\Debug\net5.0\ConsolaTP1.genruntimeconfig.cache
