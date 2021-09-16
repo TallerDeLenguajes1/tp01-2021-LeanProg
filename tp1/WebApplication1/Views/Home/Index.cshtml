@@ -3,6 +3,31 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">HOLA AQUI EL PROBLEMA 2</h1>
+
+    <form asp-action="Division" asp-controller="Home" method="post">
+        <label>Ingrese 2 valores para dividir</label>
+        <input type="text" name="a" value="" />
+        <input type="text" name="b" value="" />
+        <input type="submit" name="btn" value="Calcular" />
+    </form>
+
+    <br />  
+    <h1 class="display-4">HOLA AQUI EL PROBLEMA 1</h1>
+    
+    <form asp-action="CalcularCuadrado" asp-controller="Home" method="post">
+        <label>Ingrese 1 valores para Calcular el cuadrado</label>
+        <input type="text" name="a" value="" />
+        <input type="submit" name="btn" value="Calcular" />
+    </form>
+    <br />  
+    <h1 class="display-4">HOLA AQUI EL PROBLEMA 4</h1>
+    <form asp-action="Problema4" asp-controller="Home" method="post">
+        <label>Ingrese quilometros recorridos</label>
+        <input type="text" name="a" value="" />
+        <label>Ingrese litros usados</label>
+        <input type="text" name="b" value="" />
+        <input type="submit" name="btn" value="Calcular" />
+    </form>
+
 </div>
