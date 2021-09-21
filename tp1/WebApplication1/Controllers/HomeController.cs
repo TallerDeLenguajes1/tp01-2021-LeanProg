@@ -7,6 +7,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using WebApplication1.Models;
 using NLog;
+using System.IO;
+using System.Text.Json;
+using System.Text.Json.Serialization;
+using System.Net;
 
 namespace WebApplication1.Controllers
 {
@@ -14,6 +18,7 @@ namespace WebApplication1.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private static Logger logger = LogManager.GetCurrentClassLogger();
+        
 
         public HomeController(ILogger<HomeController> logger)
         {
@@ -29,7 +34,7 @@ namespace WebApplication1.Controllers
         {
             return View();
         }
-     
+            
         public int Division(int a, int b)
         {
             int division;
@@ -52,6 +57,12 @@ namespace WebApplication1.Controllers
            
         }
 
+        public IActionResult Problema3()
+        {
+           
+            return View();
+        }
+
         public int CalcularCuadrado(int a)
         {
             try
@@ -66,6 +77,10 @@ namespace WebApplication1.Controllers
             }
             
         }
+
+
+    
+
 
         public float Problema4(int a,int b)
         {

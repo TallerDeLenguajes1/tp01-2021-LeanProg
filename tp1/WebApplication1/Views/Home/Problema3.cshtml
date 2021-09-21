@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+
+
+*@
+@{        
+    var prov = new ApiProvincias();
+    List<Provincias> miList = prov.GetListadoDeProv();
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm">
+         <h3>Provincias</h3> 
+        </div>
+        <div class="col-sm">
+            <h3>Numero de identificacion</h3>
+        </div>
+      
+    </div>
+</div>
+
+
+<div class="container">
+    
+    @foreach (var item in miList)
+            {
+
+                <div class="row" >
+                    <div class="col" title="Povincias">
+                        @item.Nombre
+                    </div>
+                    <div class="col" title="Numero de Identificacion">
+                        @item.Id
+
+                    </div>
+                </div>
+
+            }
+        
+ </div>
+
+ 
+@*<input type="text" name="a" value="@ViewData["a"]" />*@
+@*<input type="text" name="b" value="@ViewData["b"]" />*@

@@ -38,7 +38,6 @@ E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practi
 E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
 E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
 E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
-E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Problema1.cshtml.g.cs
 E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\WebApplication1\bin\Debug\net5.0\Humanizer.dll
 E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
 E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\WebApplication1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -119,3 +118,5 @@ E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practi
 E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\WebApplication1\bin\Debug\net5.0\Nlog.config
 E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\CalcularCuadrado.cshtml.g.cs
 E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Porblema4.cshtml.g.cs
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Division.cshtml.g.cs
+E:\PROGRAMADOR UNIVERSITARIO 2DO AÑO\taller2\Trabajos practicos\trabajos practicos numero 1\tp1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Problema3.cshtml.g.cs
